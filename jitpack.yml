@@ -1,4 +1,4 @@
 install: 
   - FILE="-Dfile=wallet-core-android-release.aar" 
-  - mvn install:install-file $FILE -DgroupId=com.mycelium.walletcore -DartifactId=core-android -Dversion=1.0.17 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.mycelium.walletcore -DartifactId=core-android -Dversion=1.0.18 -Dpackaging=aar -DgeneratePom=true
 
