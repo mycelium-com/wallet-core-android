@@ -5,7 +5,7 @@
   <groupId>com.mycelium.walletcore</groupId>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>core-android</artifactId>
-  <version>1.0.25</version>
+  <version>1.0.26</version>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
